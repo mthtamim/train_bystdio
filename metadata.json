@@ -1,0 +1,6 @@
+{
+  "name": "Suborno Express: Dhaka to Chattogram Rail Journey",
+  "description": "Playable 2D pixel art simulator of the iconic Bangladesh Railway Dhaka-to-Chattogram express train journey featuring authentic stations, driver controls, passenger coach view, dynamic weather, and authentic train audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
